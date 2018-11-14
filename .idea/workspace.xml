@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03a789f2-5a23-44e1-8d2a-4286cc11a862" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/actionbar_create.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/approved.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/facebookl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/linkedinl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/rejected.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/syllabus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/twitterl.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/youtube1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_internet_connection.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/internetconnection_dialogbox.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-anydpi-v26/skct.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-anydpi-v26/skct_round.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-hdpi/skct.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-hdpi/skct_launcher_foreground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-hdpi/skct_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-mdpi/skct.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-mdpi/skct_launcher_foreground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-mdpi/skct_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xhdpi/skct.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xhdpi/skct_launcher_foreground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xhdpi/skct_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xxhdpi/skct.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xxhdpi/skct_launcher_foreground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xxhdpi/skct_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xxxhdpi/skct.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xxxhdpi/skct_launcher_foreground.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/mipmap-xxxhdpi/skct_round.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/values/ic_launcher_background.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/skct-web.png" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/SKCET_College_App/.idea/caches/build_file_checksums.ser" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/.idea/misc.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/.idea/modules.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/build.gradle" afterPath="$PROJECT_DIR$/SKCET_College_App/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/google-services.json" afterPath="$PROJECT_DIR$/SKCET_College_App/app/google-services.json" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/release/app-release.apk" afterPath="$PROJECT_DIR$/SKCET_College_App/app/release/app-release.apk" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/release/output.json" afterPath="$PROJECT_DIR$/SKCET_College_App/app/release/output.json" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/androidTest/java/com/example/exalogic/skcet_college_app_beta/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/androidTest/java/com/example/exalogic/skcet_college_app_beta/ExampleInstrumentedTest.java" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/API/ItemTypeAdapterFactory.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/API/MyRequestInterceptor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/API/RetrofitAPI.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/API/RetrofitAPIInterface.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/CircleTransform.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/DefaultScreens/LoginActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/DefaultScreens/SplashScreenActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/DefaultScreens/UpdatePopupActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Assignment/HodCreateAssignmentActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Assignment/StaffAnswerViewForActiveActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Assignment/StaffAssignmentViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Assignment/StaffCreateAssignmentActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Assignment/StaffEditAssignmentForActiveActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Assignment/StaffUnsubmitActiveActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/AttendanceActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/AttendanceSubMenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodAttendanceDefaulterActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodAttendanceGraphActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodAttendancePercentageActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodAttendanceReportActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodAttendanceViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodEditAttendanceActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Attendance/HodMarkAttendanceActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Email/EmailComposeActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Email/EmailReadActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Email/SwipeMessageMailActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/AppInfoActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/ExamReportSubmenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodCreateExamActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamArrearHistoriesActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamCreateExamAnalysisReportActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamCreateSubjectAnalysisReportActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamMonthlyReportActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamReportViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamResultAnalysisReportActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamSubMenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamSubjectWiseReportActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamTimetableActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamTimetableViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Exam/HodExamViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/HodDashBoardFragment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/HodLandingActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/HodNotification/HodNotificationFragment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/HomeNavigationTabActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Leave/HodEditLeaveActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Leave/HodLeaveActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Leave/HodLeaveViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Profile_CollegeInfo/CollegeInformationActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Profile_CollegeInfo/HodProfileActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Sms/EmployeeFragment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Sms/ParentFragment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Sms/SMSTab1Activity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Sms/StudentFragment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Student/HodStudentlistActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/TimeTable/StaffTimeTableActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/TimeTable/StaffTimeTableAltrationActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/TimeTable/TimeTableAltrationActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/ToDo/EditToDoActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/ToDo/HodTodoListActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/ToDo/ToDoViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Tutor/HodTutorManagementActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/Tutor/HodTutorViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/graph/BarUtility.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/graph/BarUtilityForMonth.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/graph/DayAxisValueFormatter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/graph/DayAxisValueFormatterForMonth.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/graph/MyAxisValueFormatter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/HodActivity/graph/XYMarkerView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/MainabcActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/Result.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/Attendance/StaffAttendanceSubMenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/Attendance/StaffEditAttendanceActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/Attendance/StaffMarkStudentAttendanceActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/Attendance/StaffViewMyAttendanceActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/CoursePlan/CoursePlanViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/Exam/StaffExamSubmenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/StaffDashBoardActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/StaffLandingActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StaffActivity/StaffNavigationTabActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Assignment/StudentAssignmentViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Attendance/StudentAttendanceDownLoadActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Attendance/StudentAttendanceSubMenuActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Attendance/StudentAttendanceViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Email/StudentEmailComposeActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Email/StudentEmailReadActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Email/StudentSwipeMessageMailActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Exam/StudentExamMarksActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Exam/StudentViewMarkActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Leave/StudentCreateLeaveActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Profile/StudentProfileViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/StudentDashBoardActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/StudentLandingActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/StudentNavigationTabActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Syllabus/SyllabusSubUnitActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/Syllabus/SyllabusViewActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Activity/StudentActivity/TimeTable/StudentTimeTableActivity.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ActiveAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ActiveAnswerAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ActiveTodoAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ActiveUnsubmitAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/AttendanceDefaulterAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/AttendanceMarkAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/AttendanceRecyclerAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ComposeAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/CoursePlanAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/DepartmentAlterationAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/EmployeeLeaveViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/EmployeeSmsAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ExamArrearHistoriesAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ExamReportViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ExamTimeTableAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ExamTimeTableViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ExamViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ExperienceAdpter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/HodAttendanceMarkAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/HodExamAnalysisAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/HodNotificationAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/HodSubjectAnalysisAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/InboxAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/MyLeaveViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/MySubstitutionsAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/OtherSubstitutionAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/ParentsmsAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/PreviousAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/PreviousProfileAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/PreviousTodoAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/RecyclerViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/SemesterAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/SentAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/SmsAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StaffNavigationTimeTableAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentAdapters/StudentAttendanceViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentAdapters/StudentSyallbusViewAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentAdapters/StudentSyllabusSubUnitAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentExamMarksAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentNavigationTimeTableAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentViewMarksAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentlistAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/StudentsmsAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/SubmissionAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/TimingAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/TrashAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/TutorManagementAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Adapters/TutorViewListAdapter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Database/DBHelper.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Database/PreferencesManger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/AnswerActiveDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/AnswerActiveResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/AssignmentViewDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/AssignmentViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/ExpAssignment.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/SubjectList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/SubjectResponseList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/UnsubmitActiveDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Assignment/UnsubmitActiveResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Data.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/ComposemailResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/DeletedEmail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/EmailReadResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/MailResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/ReceivedMail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/SentEmail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Email/UserEmail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ActiveTodoList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AlterationDate.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AltrationEmployeeDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AltrationEmployeeResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AltrationResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AltrationSubject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AltrationSubjectResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ArrearHistories.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ArrearHistoriesResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/AttendanceStudent.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/Branch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CircularView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CircularViewResponses.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CollegeInfoDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CollegeInfoResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Batch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/BatchResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Branch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/BranchResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Exam.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/ExamReport.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/ExamReportResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/ExamResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Section.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/SectionResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Semester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/SemesterResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/StatusResponseClass.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/StudentResponses.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Students.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/SubjectResponses.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CommonModelClass/Subjects.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/CorporateOfficeDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/DashBoardResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/DepartmentWiseAlteration.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/EmployeeSmsView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/EmployeeSmsViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamRange.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamRangeResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamReportResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamReportView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamTimeTable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamTimeTableDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamTimeTableResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamTimeTableViewDetailsResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/ExamViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/HodAttendance.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/HodAttendanceResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/HodNotificationView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/HodNotificationViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/InActiveTodoList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/MonthlyViewGraphResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/MonthlyViewPercentage.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/MonthlyViewSubjects.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/MyAlterationFromOthers.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/MyAlterationsToOther.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/Semester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/SemesterResponses.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/Student.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/StudentListResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/StudentSmsView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/StudentSmsViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/SubjectAnalysisView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/SubjectAnalysisViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/SubjectResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/SubjectWiseGraph.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/SubjectWiseGraphResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/Subjects.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TimeTableAlterationResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TimeTableDetalis.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TimetableResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/Timing.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TimingResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TodoListResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TutorStudent.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/HodModelClass/TutorStudentResponses.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Leave/LeaveDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Leave/LeaveResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Leave/LeaveType.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Leave/LeaveTypeResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/AddressDetail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/Branch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/CurrentAddress.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/EmergencyContact.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/Experience.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/GuardianDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/HealthInfo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/HostelInfo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/ImageModel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/ParentDetail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/PermanentAddress.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/PreviousDetail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/Profile.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/Profile/ProfileResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/SigninResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentAttendanceDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentAttendanceResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentDashboardResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentExamListDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentExamListResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentExamViewMarkDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentExamViewMarkResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentSyllabusSubUnit.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentSyllabusSubUnitResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentSyllabusView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/StudentModelClass/StudentSyllabusViewResponse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/TimeTable/StudentTimeTableDetails.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/ModelsClass/VersionChecker.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Utility/Constants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Utility/Global.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Utility/UIUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/java/com/skibeta/exalogic/skcet_college_app_beta/Widgets/RoundedImageView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/pending.png" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/drawable/pending.png" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance_sub_menu.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance_sub_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance_sub_menu2.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance_sub_menu2.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance_sub_menu3.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_attendance_sub_menu3.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_college_information.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_college_information.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_course_plan_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_course_plan_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_edit_to_do.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_edit_to_do.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_email_compose.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_email_compose.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_email_read.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_email_read.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_exam_report.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_exam_report.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_exam_report_submenu.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_exam_report_submenu.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_assignment_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_assignment_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_defaulter.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_defaulter.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_graph.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_graph.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_percentage.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_percentage.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_report.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_report.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_attendance_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_create_assignment.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_create_assignment.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_create_exam.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_create_exam.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_edit_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_edit_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_edit_leave.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_edit_leave.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_arrear_histories.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_arrear_histories.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_create_exam_analysis_report.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_create_exam_analysis_report.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_create_subject_analysis_report.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_create_subject_analysis_report.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_report_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_report_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_resuly_analysis_report.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_resuly_analysis_report.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_sub_menu.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_sub_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_subject_wise_report.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_subject_wise_report.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_timetable.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_timetable.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_timetable_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_timetable_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_exam_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_landing.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_landing.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_leave.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_leave.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_leave_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_leave_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_mark_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_mark_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_profile.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_profile.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_studentlist.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_studentlist.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_todo_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_todo_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_tutor_management.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_tutor_management.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_tutor_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_hod_tutor_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_home_tab.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_home_tab.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_login.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_mainabc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_splash_screen.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_splash_screen.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_answer_view_for_active.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_answer_view_for_active.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_assignment_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_assignment_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_dash_board.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_dash_board.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_edit_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_edit_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_exam_submenu.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_exam_submenu.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_landing.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_landing.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_mark_student_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_mark_student_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_navigation_tab.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_navigation_tab.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_time_table.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_time_table.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_unsubmit_active.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_unsubmit_active.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_view_my_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_staff_view_my_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_assignment_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_assignment_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_attendance_down_load.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_attendance_down_load.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_attendance_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_attendance_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_create_leave.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_create_leave.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_dash_board.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_dash_board.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_exam_marks.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_exam_marks.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_landing.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_landing.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_navigation_tab.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_navigation_tab.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_profile_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_profile_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_time_table.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_time_table.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_view_mark.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_student_view_mark.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_swipe_message_mail.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_swipe_message_mail.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_syllabus_sub_unit.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_syllabus_sub_unit.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_syllabus_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_syllabus_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_tim_table_altration.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_tim_table_altration.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_to_do_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/activity_to_do_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/content_attendance.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/content_attendance.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/content_college_information.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/content_college_information.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/employee_leave_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/employee_leave_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_arrear_histories_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_arrear_histories_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_report_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_report_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_timetable_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_timetable_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_timetable_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_timetable_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/exam_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/fragment_hod_dash_board.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/fragment_hod_dash_board.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/hod_notification_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/hod_notification_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/leave_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/leave_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_exam_view_marks.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_exam_view_marks.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_active_answer.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_active_answer.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_active_assignment.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_active_assignment.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_active_question_view_dialogbox.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_active_question_view_dialogbox.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_previous_assignment.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_previous_assignment.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_student_attendance_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_student_attendance_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_student_syallabus_view.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_student_syallabus_view.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_subject_analysis.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_subject_analysis.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_timing_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_timing_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_tutor_view_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/list_item_tutor_view_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/staff_time_table_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/staff_time_table_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/student_view_item_list.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/student_view_item_list.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/update_dialogbox.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/layout/update_dialogbox.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/menu/create.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/menu/create.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/menu/hod_drawer.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/menu/hod_drawer.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/menu/student_drawer.xml" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/main/res/menu/student_drawer.xml" />
+      <change beforePath="$PROJECT_DIR$/SKCET_College_App/app/src/test/java/com/example/exalogic/skcet_college_app_beta/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/SKCET_College_App/app/src/test/java/com/example/exalogic/skcet_college_app_beta/ExampleUnitTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SKCET_College_App_Beta.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SKCET_College_App/SKCET_College_App_Beta.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SKCET_College_App.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SKCET_College_App/SKCET_College_App.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SKCET_College_App" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Exalogic\.gradle\wrapper\dists\gradle-4.4-all\9br9xq1tocpiv8o6njlyu5op1\gradle-4.4" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.4" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SKCET_College_App" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="SKCET_College_App" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'SKCET_College_App'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'SKCET_College_App'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'SKCET_College_App'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'SKCET_College_App'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'SKCET_College_App'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'SKCET_College_App'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'SKCET_College_App'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'SKCET_College_App'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'SKCET_College_App'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="SKCET_College_App" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-base-services-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-build-option-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-cli-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-core-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-docs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-installation-beacon-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-jvm-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-builders-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-kotlin-dsl-tooling-models-0.13.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-launcher-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-logging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-messaging-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-core-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-model-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-persistent-cache-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-process-services-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-resources-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-runtime-api-info-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-tooling-api-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-wrapper-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-announce-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-antlr-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-cache-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-comparison-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-build-init-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-code-quality-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-composite-builds-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-dependency-management-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-diagnostics-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ear-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ide-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-ivy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-jacoco-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-javascript-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-groovy-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-java-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-language-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-maven-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-osgi-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-platform-play-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-development-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugin-use-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-plugins-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-publish-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-reporting-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-gcs-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-http-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-s3-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-resources-sftp-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-scala-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-signing-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-test-kit-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-base-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-jvm-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-testing-native-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-tooling-api-builders-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-version-control-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/gradle-workers-4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SKCET_College_App" type="1abcf292:AndroidViewProjectNode" />
+              <item name="SKCET_College_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SKCET_College_App" type="1abcf292:AndroidViewProjectNode" />
+              <item name="SKCET_College_App" type="462c0819:PsiDirectoryNode" />
+              <item name="SKCET_College_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03a789f2-5a23-44e1-8d2a-4286cc11a862" name="Default" comment="" />
+      <created>1538643163161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538643163161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SKCET_College_App/SKCET_College_App_Beta.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SKCET_College_App/SKCET_College_App.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

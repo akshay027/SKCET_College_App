@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341229454540",
+    "firebase_url": "https://mobioticsapp.firebaseio.com",
+    "project_id": "mobioticsapp",
+    "storage_bucket": "mobioticsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341229454540:android:b614c0f46eff0e38",
+        "android_client_info": {
+          "package_name": "com.example.exalogic.mobioticsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341229454540-mbr2u8jrr6g7fhrs80s537r8rqlmugk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWAaSOeGviQ51WWhXluUf99VFVU59xPew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

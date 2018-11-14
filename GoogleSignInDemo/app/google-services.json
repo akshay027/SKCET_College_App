@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "265385699854",
+    "firebase_url": "https://solid-acrobat-212104.firebaseio.com",
+    "project_id": "solid-acrobat-212104",
+    "storage_bucket": "solid-acrobat-212104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265385699854:android:d7226958f44e7c40",
+        "android_client_info": {
+          "package_name": "com.example.exalogic.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265385699854-qva7e3udggacagl6tn2cmuhr4nnpkns1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA9CImaFQXcvirM_BDx-JP5RN7cfpBOLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
